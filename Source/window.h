@@ -1,6 +1,7 @@
 #ifndef WINDOW_H
 #define WINDOW_H
 
+#include <QtWebEngineWidgets>
 #include <QMainWindow>
 
 namespace Ui
@@ -18,6 +19,7 @@ public:
 
 private:
     Ui::Window *ui;
+    QWebEngineView* view;
 };
 
 #endif

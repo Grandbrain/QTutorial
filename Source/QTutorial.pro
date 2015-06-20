@@ -1,4 +1,4 @@
-QT          += core gui widgets
+QT          += core gui widgets webenginewidgets
 TARGET       = QTutorial
 TEMPLATE     = app
 SOURCES     += main.cpp window.cpp
