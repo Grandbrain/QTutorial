@@ -4,3 +4,6 @@ TEMPLATE     = app
 SOURCES     += main.cpp window.cpp
 HEADERS     += window.h
 FORMS       += window.ui
+
+RESOURCES += \
+    resources.qrc

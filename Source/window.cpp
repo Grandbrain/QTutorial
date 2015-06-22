@@ -4,6 +4,7 @@
 Window::Window(QWidget *parent) : QMainWindow(parent), ui(new Ui::Window)
 {
     ui->setupUi(this);
+
     QUrl url = QUrl::fromLocalFile("D:\\viewer\\viewer.html");
     view = new QWebEngineView(this);
     view->load(url);
