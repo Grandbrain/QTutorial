@@ -530,7 +530,7 @@ html[dir='rtl'] #toolbarContainer, .findbar, .secondaryToolbar {
   height: 32px;
 
   min-width: 16px;
-  padding: 0px 6px 0px 6px;
+  padding: 0px 0px 0px 6px;
   margin: 4px 2px 4px 2px;
   color: hsl(0,0%,85%);
   font-size: 12px;
@@ -2001,14 +2001,14 @@ html[dir='rtl'] #documentPropertiesOverlay .row > * {
 }
 
 
-::-webkit-scrollbar              
+::-webkit-scrollbar
 {
   background-image: url(texture.png),
                     linear-gradient(hsla(0,0%,32%,.99), hsla(0,0%,27%,.95));
                     width: 8px;
 }
 
-::-webkit-scrollbar-thumb        
+::-webkit-scrollbar-thumb
 {
   background-color: #E7E7E7;
   border-radius: 7px;
@@ -2018,5 +2018,5 @@ html[dir='rtl'] #documentPropertiesOverlay .row > * {
 ::-webkit-scrollbar-track-piece  {  }
 ::-webkit-scrollbar-thumb        {}
 ::-webkit-scrollbar-corner       { }*/
-::-webkit-resizer                { 
+::-webkit-resizer                {
 display: none; }

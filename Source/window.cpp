@@ -5,7 +5,8 @@ Window::Window(QWidget *parent) : QMainWindow(parent), ui(new Ui::Window)
 {
     ui->setupUi(this);
 
-    QUrl url = QUrl::fromLocalFile("D:\\viewer\\viewer.html");
+    QtWebEngine::initialize();
+    QUrl url = QUrl::fromLocalFile("C:\\Users\\Andrey\\Documents\\GitHub\\QTutorial\\Source\\Data\\viewer\\viewer.html");
     view = new QWebEngineView(this);
     view->load(url);
     ui->gridLayout_3->setMargin(0);
