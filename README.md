@@ -3,7 +3,7 @@
 
 # Welcome to QTutorial project!
 
-[QTutorial](https://github.com/Grandbrain/QTutorial) is a cross-platform application to study Qt Framework. The program is an ebook with a choice of lessons and the operating system as well as the language of the narrative. The application also provides for switching between text and code of the lesson. The program is based on the Qt Framework and can run on all platforms supported by this library.
+[QTutorial](https://github.com/Grandbrain/QTutorial) is a set of lessons to study Qt Framework. The project is an ebook with a choice of lessons and the operating systems as well as the language of the narrative. Archive also provides the source code for quick projects building.
 
 
 ## Contribute
@@ -17,22 +17,12 @@ There are several ways to contribute to QTutorial project:
 
 ## Documentation
 
-*  [Program usage](https://github.com/Grandbrain/QTutorial/blob/master/Docs/ProgramUsage.pdf)
 *  [How to contribute](https://github.com/Grandbrain/QTutorial/blob/master/Docs/HowToContribute.pdf)
-
-
-## Building
-
-*  Download and extract the [latest release](https://github.com/Grandbrain/QTutorial/releases) of the source code.
-*  Download and install the latest version of [Qt Community](https://www.qt.io/ru/download-open-source).
-*  Launch Qt Creator and open the project file "QTutorial.pro".
-*  Rebuild the project by clicking "Rebuild all" in the "Build" menu.
-*  Launch the application by clicking "Run" in the "Build" menu.
 
 
 ## Usage
 
-* Launch the application and select the language in the toolbar.
-* Select the operating system in the toolbar.
-* Choose one of the lessons available for the selected language and platform.
-* Read the lesson and, if necessary, switch between text and source code.
+* Download and unpack the archive. 
+* Open the folder with the name of your operating system and select language.
+* Open the PDF file and read the lessons.
+* Use the source code for quick projects building.
