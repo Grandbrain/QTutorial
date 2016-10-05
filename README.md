@@ -3,7 +3,7 @@
 
 # Welcome to QTutorial project!
 
-[QTutorial](https://github.com/Grandbrain/QTutorial) is a set of lessons to study Qt Framework. The project is an ebook with a choice of lessons and the operating systems as well as the language of the narrative. Archive also provides the source code for quick projects building.
+[QTutorial](https://github.com/Grandbrain/QTutorial) is a set of short and simple lessons for studying Qt Framework. The project is an ebook with a choice of lessons and the operating systems as well as the language of the narrative. Archive also provides the source code for quick projects building.
 
 
 ## Contribute
