@@ -16,9 +16,15 @@ There are several ways to contribute to QTutorial project:
 * Review the [source code changes](https://github.com/Grandbrain/QTutorial/pulls).
 
 
-## Usage
+## Building
 
 * Download and extract the [latest release](https://github.com/Grandbrain/QTutorial/releases) of the repository.
+* Download and install the latest version of [Qt](https://www.qt.io/download).
 * Open the folder with the name of your operating system and select language.
-* Open the PDF file and read the lessons.
-* Use the source code for quick projects building.
+* Build and run projects to study various parts of Qt Framework.
+
+
+## Usage
+
+* Use the PDF manuals to read the lessons.
+* Use the source code to study Qt Framework.
